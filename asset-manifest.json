@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-icf-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/my-icf-calculator/static/js/main.c1ca1bdc.js",
+    "static/js/787.97862139.chunk.js": "/my-icf-calculator/static/js/787.97862139.chunk.js",
+    "index.html": "/my-icf-calculator/index.html",
+    "main.e6c13ad2.css.map": "/my-icf-calculator/static/css/main.e6c13ad2.css.map",
+    "main.c1ca1bdc.js.map": "/my-icf-calculator/static/js/main.c1ca1bdc.js.map",
+    "787.97862139.chunk.js.map": "/my-icf-calculator/static/js/787.97862139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1ca1bdc.js"
+  ]
+}
